@@ -38,11 +38,11 @@
             'capital'  : true,
             'special'  : true,
             'labels'   : {
-                'general'   : 'The password must have:',
-                'minlength' : 'At least {{minlength}} characters',
-                'number'    : 'At least one number',
-                'capital'   : 'At least one uppercase letter',
-                'special'   : 'At least one special character'
+                'general'   : 'Je wachtwoord moet minimaal:',
+                'minlength' : '{{minlength}} karakters',
+                'number'    : '1 nummer',
+                'capital'   : '1 hoofdletter',
+                'special'   : '1 speciale karakter'
             }
         }, options);
 
